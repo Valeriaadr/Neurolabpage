@@ -55,7 +55,7 @@ export function ScreenshotsSection() {
         {/* Section header */}
         <div className="mb-16 text-center">
           <p className="mb-3 font-mono text-xs tracking-[0.3em] text-neon-cyan/60 uppercase">
-            {"// GALERIA"}
+            
           </p>
           <h2 className="mb-4 text-3xl font-bold tracking-tight text-foreground md:text-4xl">
             Vista previa del juego

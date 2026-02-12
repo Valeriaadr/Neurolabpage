@@ -37,10 +37,10 @@ export function TrailerSection() {
           {/* Section header */}
           <div className="mb-12 text-center">
             <p className="mb-3 font-mono text-xs tracking-[0.3em] text-neon-cyan/60 uppercase">
-              {"// TRAILER OFICIAL"}
+              
             </p>
             <h2 className="mb-4 text-3xl font-bold tracking-tight text-foreground md:text-4xl">
-              Mira lo que te espera
+              TRAILER OFICIAL
             </h2>
             <div className="mx-auto h-px w-20 bg-gradient-to-r from-transparent via-neon-cyan/50 to-transparent" />
           </div>
@@ -82,7 +82,7 @@ export function TrailerSection() {
                 </span>
               </div>
               <span className="font-mono text-[10px] tracking-wider text-muted-foreground">
-                02:47
+                time
               </span>
             </div>
           </div>

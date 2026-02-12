@@ -37,7 +37,7 @@ export function CtaSection() {
       <div className="relative mx-auto max-w-3xl px-6 text-center" ref={sectionRef}>
         <div className="cta-content">
           <p className="mb-6 font-mono text-xs tracking-[0.3em] text-neon-cyan/60 uppercase">
-            {"// DESCARGA AHORA"}
+          
           </p>
 
           <h2 className="mb-6 text-balance text-3xl font-bold tracking-tight text-foreground md:text-5xl lg:text-6xl">

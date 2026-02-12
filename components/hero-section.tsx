@@ -64,7 +64,7 @@ export function HeroSection() {
       <div className="relative z-20 mx-auto max-w-4xl px-6 text-center">
         <div ref={titleRef}>
           <p className="reveal mb-6 font-mono text-xs tracking-[0.4em] text-neon-cyan/70 uppercase md:text-sm">
-            {"/// PROTOCOLO ACTIVO ///"}
+          
           </p>
 
           <h1 className="reveal animate-glitch-skew mb-4 text-5xl font-black tracking-tight text-foreground md:text-7xl lg:text-8xl">
