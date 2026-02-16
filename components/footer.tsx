@@ -18,7 +18,7 @@ export function Footer() {
               NEUROLAB
             </span>
             <p className="mt-1 font-mono text-[10px] tracking-wider text-muted-foreground uppercase">
-              Protocolo 17
+              FANTASTIC 4
             </p>
           </div>
 

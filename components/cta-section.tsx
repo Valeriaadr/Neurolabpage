@@ -47,8 +47,7 @@ export function CtaSection() {
           </h2>
 
           <p className="mx-auto mb-10 max-w-lg text-sm leading-relaxed text-muted-foreground md:text-base">
-            Descarga NEUROLAB: Protocolo 17 y demuestra que puedes sobrevivir al
-            laberinto digital mas peligroso jamas creado.
+            Descarga NEUROLAB y experimenta un entorno digital desafiante que combina exploración, toma de decisiones y supervivencia estratégica.
           </p>
 
           <a

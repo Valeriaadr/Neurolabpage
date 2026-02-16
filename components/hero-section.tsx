@@ -73,7 +73,7 @@ export function HeroSection() {
           </h1>
 
           <h2 className="reveal mb-6 font-mono text-lg font-light tracking-wider text-muted-foreground md:text-xl">
-            Protocolo 17
+            Fantastic 4
           </h2>
 
           <p className="reveal mb-4 text-xl font-medium text-foreground/90 md:text-2xl">
@@ -81,10 +81,7 @@ export function HeroSection() {
           </p>
 
           <p className="reveal mx-auto mb-10 max-w-2xl text-sm leading-relaxed text-muted-foreground md:text-base">
-            Estas atrapado dentro de un laberinto digital lleno de monstruos,
-            trampas de fuego y desafios inteligentes. Para escapar, debes
-            escanear codigos QR con tu telefono y responder correctamente para
-            abrir compuertas y sobrevivir.
+            Explora un laberinto digital donde la acción y el pensamiento estratégico se combinan. Responde correctamente y desbloquea el camino antes de que el sistema colapse.
           </p>
 
           <div className="reveal flex flex-col items-center justify-center gap-4 sm:flex-row">

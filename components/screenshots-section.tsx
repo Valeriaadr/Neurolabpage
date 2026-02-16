@@ -6,22 +6,22 @@ import Image from "next/image"
 const screenshots = [
   {
     src: "/images/screenshot-1.jpg",
-    alt: "Explorando el laberinto oscuro de NEUROLAB",
+    alt: "Imagen uno",
   },
   {
     src: "/images/screenshot-2.jpg",
-    alt: "Escaneando un codigo QR holografico en NEUROLAB",
+    alt: "Imagen dos",
   },
   {
     src: "/images/screenshot-3.jpg",
-    alt: "Compuerta digital abriendose con luz neon en NEUROLAB",
+    alt: "Imagen tres",
   },
   {
     src: "/images/screenshot-4.jpg",
-    alt: "Monstruo digital acechando en el corredor de NEUROLAB",
+    alt: "Imagen cuatro",
   },
 ]
-
+ 
 export function ScreenshotsSection() {
   const sectionRef = useRef<HTMLDivElement>(null)
 
