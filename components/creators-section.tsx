@@ -5,19 +5,20 @@ import Image from "next/image"
 
 const creators = [
   {
-    name: "Creador 1",
-    image: "/creators/creator-1.jpg",
+    name: "Valeria Andrade",
+    image: "/creators/creator-1.jpg"
+    ,
   },
   {
-    name: "Creador 2",
+    name: "Leunam Diaz",
     image: "/creators/creator-2.jpg",
   },
   {
-    name: "Creador 3",
+    name: "Carlos Diaz",
     image: "/creators/creator-3.jpg",
   },
   {
-    name: "Creador 4",
+    name: "Andres Germes",
     image: "/creators/creator-4.jpg",
   },
 ]
