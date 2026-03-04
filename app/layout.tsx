@@ -15,7 +15,7 @@ const jetbrainsMono = JetBrains_Mono({
 })
 
 export const metadata: Metadata = {
-  title: 'NEUROLAB: Protocolo 17 - Sobrevive al Laberinto Digital',
+  title: 'NEUROLAB',
   description:
     'Atrapado dentro de un laberinto digital lleno de monstruos, trampas de fuego y desafios inteligentes. Escanea codigos QR y responde correctamente para sobrevivir.',
   keywords: ['NEUROLAB', 'juego', 'horror', 'laberinto', 'QR', 'indie game'],
