@@ -1,12 +1,3 @@
-import { Twitter, Youtube, Instagram, Github } from "lucide-react"
-
-const socialLinks = [
-  { icon: Twitter, label: "Twitter", href: "#" },
-  { icon: Youtube, label: "YouTube", href: "#" },
-  { icon: Instagram, label: "Instagram", href: "#" },
-  { icon: Github, label: "GitHub", href: "#" },
-]
-
 export function Footer() {
   return (
     <footer className="relative border-t border-border bg-card/30">
@@ -20,20 +11,6 @@ export function Footer() {
             <p className="mt-1 font-mono text-[10px] tracking-wider text-muted-foreground uppercase">
               FANTASTIC 4
             </p>
-          </div>
-
-          {/* Social links */}
-          <div className="flex items-center gap-4">
-            {socialLinks.map((link) => (
-              <a
-                key={link.label}
-                href={link.href}
-                aria-label={link.label}
-                className="flex h-10 w-10 items-center justify-center rounded-md border border-border bg-secondary/50 text-muted-foreground transition-all duration-300 hover:border-neon-cyan/30 hover:text-neon-cyan hover:shadow-[0_0_15px_hsl(180_100%_50%/0.1)]"
-              >
-                <link.icon className="h-4 w-4" />
-              </a>
-            ))}
           </div>
 
           {/* Divider */}
