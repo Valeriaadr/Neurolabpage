@@ -5,6 +5,7 @@ import { TrailerSection } from "@/components/trailer-section"
 import { HowItWorksSection } from "@/components/how-it-works-section"
 import { ScreenshotsSection } from "@/components/screenshots-section"
 import { CtaSection } from "@/components/cta-section"
+import { CreatorsSection } from "@/components/creators-section"
 import { Footer } from "@/components/footer"
 
 export default function Home() {
@@ -33,6 +34,10 @@ export default function Home() {
       <div className="mx-auto h-px max-w-5xl bg-gradient-to-r from-transparent via-neon-cyan/10 to-transparent" />
 
       <CtaSection />
+
+      <div className="mx-auto h-px max-w-5xl bg-gradient-to-r from-transparent via-neon-cyan/10 to-transparent" />
+
+      <CreatorsSection />
       <Footer />
     </main>
   )
