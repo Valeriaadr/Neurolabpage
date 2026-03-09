@@ -16,7 +16,7 @@ export function ServiceWorkerRegistration() {
                   newWorker.state === 'activated' &&
                   navigator.serviceWorker.controller
                 ) {
-                  // New content available, could notify user
+                  
                   console.log('New content available, refresh to update.')
                 }
               })
